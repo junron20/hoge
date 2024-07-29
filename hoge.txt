@@ -5,3 +5,32 @@ hoge/
 hoge.txt
 hote.txt
 hogehogehoge
+01_Java基礎/
+02_Java応用/
+02_UNIX基礎/
+03_DB基礎/
+A5SQL Mk-2 - ショートカット.lnk*
+HitBlowGame.java
+Microsoft Edge.lnk*
+SQL Shell (psql).lnk*
+Slack.lnk*
+Sourcetree.lnk*
+Task Scheduler.lnk*
+Tera Term.lnk*
+Zoom Workplace.lnk*
+a/
+aaa
+astah professional.lnk*
+desktop.ini
+eclipse.exe - ショートカット.lnk*
+pgAdmin 4 v8.lnk*
+unixtest.txt
+zip.zip
+お気に入り_2024_07_19.html
+カレンダー機能メモ.xlsx
+セットアップ用/
+施設予約管理システムGoogleDrive/
+案件資料/
+詳細設計書_自作/
+面談用/
+鵜飼　純/
