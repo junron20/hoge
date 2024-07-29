@@ -1,1 +1,7 @@
 aaa
+bbb
+git_test
+hoge/
+hoge.txt
+hote.txt
+hogehogehoge
